@@ -5,3 +5,13 @@ body{
 #formulario-pergunta{
     margin-top: 5vh;
 }
+
+.logo{
+    font-size: 34px;
+    color: white;
+}
+
+.logo label{
+    font-size: 22px;
+    color: black;
+}
